@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanish Abdul
 - 👀 I’m interested in developing web applications using front end tools
-- 🌱 I’m currently learning libraries
+- 🌱 I’m currently learning python libraries
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 You can reach me through Linkedln
 - 😄 Pronouns: he/him
