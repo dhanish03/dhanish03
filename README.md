@@ -11,7 +11,7 @@
 - 🎨 Passionate about creating user-friendly designs and seamless web experiences
 - 📊 Experienced in analyzing and visualizing data to derive insights and make data-driven decisions
 - 🌍 Enthusiastic about exploring new tools and frameworks to solve real-world problems
-- 💞️ I’m looking to collaborate on new technologies
+- 🔗 I’m looking to collaborate on new technologies
 - 📫 You can reach me through LinkedIn
 - 😄 Pronouns: he/him
 <!---
