@@ -2,7 +2,7 @@
 - 💻 I’m skilled in:
 - Web development (HTML, CSS, JavaScript, React.Js)
 - Back-end technologies (Python, SQL, Java)
-- Graphic design and editing (Figma, Adobe Photoshop)
+- Graphic design and editing (Figma)
 - Database management (MySQL)
 - Software development (Java, C++, Python)
 - Data analysis and visualization using Python (Pandas, Matplotlib, Seaborn, NumPy)
