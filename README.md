@@ -1,4 +1,4 @@
--👋 Hi, I’m Dhanish Abdul
+👋 Hi, I’m Dhanish Abdul
 - 💻 Skills and Expertise:
 - Web Development: HTML, CSS, JavaScript, React.js
 - Back-End Technologies: Python, SQL, Java
