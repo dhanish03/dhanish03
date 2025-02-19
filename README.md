@@ -1,13 +1,27 @@
 👋 Hi, I’m Dhanish Abdul
 - 💻 Skills and Expertise:
-- Web Development: HTML, CSS, JavaScript, React.js
-- Back-End Technologies: Python, SQL, Java
-- Database Management: MySQL, MongoDB
-- Software Development: Java, C++, Python
-- Data Analysis and Visualization: Power BI, Microsoft Excel, Python (Pandas, Matplotlib, Seaborn, NumPy)
-- Cloud Computing: AWS (Artificial Intelligence & Machine Learning)
-- Graphic Design and Editing: Figma
-- Data Cleaning and Manipulation: Python, Excel
+### 🌐 Web Development
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+
+### 💻 Programming Languages
+- Java, C++, Python, JavaScript
+
+### 🗄️ Database Management
+- MySQL, MongoDB, SQL
+
+### 📊 Data Analysis & Visualization
+- **Tools & Platforms:** Power BI, Microsoft Excel
+- **Python Libraries:** Pandas, Matplotlib, Seaborn, NumPy
+
+### ☁️ Cloud Computing
+- AWS (Artificial Intelligence & Machine Learning)
+
+### 🎨 Graphic Design & Editing
+- Figma
+
+### 🧹 Data Cleaning & Manipulation
+- Python (Pandas, NumPy), Microsoft Excel
 
 Soft Skills:
 - Communication and Storytelling
@@ -35,6 +49,9 @@ Soft Skills:
 
 📫 Get in Touch:
 - LinkedIn: http://linkedin.com/in/dhanishabdul03
+- Portfolio: https://dhanishportfolio.netlify.app/
+- Behance: https://www.behance.net/dhanishabdul
+- Github: https://github.com/dhanish03
 
 😄 Pronouns: he/him
 
