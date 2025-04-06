@@ -56,5 +56,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanish03)
 
 ---
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/dhanish03/dhanish03/output/github-contribution-grid-snake.svg)
 
 _✨ Thanks for stopping by! ✨_
