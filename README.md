@@ -1,5 +1,14 @@
 ## 👋 Hi, I’m Dhanish Abdul
 
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-orange.svg?style=flat&logo=java)
+![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-blue.svg?style=flat&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-yellow.svg?style=flat&logo=fireba
+
 ### 💻 Skills and Expertise
 
 #### 🌐 Web Development
