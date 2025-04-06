@@ -1,12 +1,16 @@
-## 👋 Hi, I’m Dhanish Abdul
-😄 Pronouns: he/him  
-🚀 I'm passionate about building impactful tech solutions  
-🎯 Currently exploring full-stack development and data-driven apps
+<!-- Profile Heading -->
+<h1 align="center">👋 Hi, I'm Dhanish Abdul</h1>
+
+<p align="center">
+  🚀 Full-Stack Developer | 🎯 Tech Explorer | 📊 Data Enthusiast <br/>
+  💬 I love building meaningful digital experiences!
+</p>
 
 ---
 
-## 🔧 Tech Stack
-### 💻 Web Development
+## 🛠️ Tech Stack
+
+### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,19 +29,19 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 
-### 📊 Data Tools
+### 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-7FB7BE?style=for-the-badge)
 
-### 🎨 Design
+### 🎨 UI/UX & Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva)
 
-### 🧰 Tools
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -45,19 +49,40 @@
 ---
 
 ## 📈 GitHub Stats
-![Dhanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanish03&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanish03&show_icons=true&theme=radical" alt="Dhanish's GitHub Stats" />
+</div>
 
 ---
 
-## 🔗 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanishabdul03)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://dhanishportfolio.netlify.app/)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/dhanishabdul)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dhanish03)
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhanish03/dhanish03/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
-### 🐍 GitHub Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/dhanish03/dhanish03/output/github-contribution-grid-snake.svg)
+## 🔗 Connect with Me
 
-_✨ Thanks for stopping by! ✨_
+<p align="center">
+  <a href="https://linkedin.com/in/dhanishabdul03" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dhanishportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/dhanishabdul" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhanish03" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ _Thanks for stopping by!_ ✨  
+</p>
