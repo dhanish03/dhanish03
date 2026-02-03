@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Dhanish Abdul</h1>
 
 <p align="center">
-  🧩 SAP SD Consultant | 🏢 Enterprise Systems | 🔍 Techno-Functional<br/>
+  🧩 SAP SD Consultant |🧩SAP ABAP Consultant 🏢 Enterprise Systems | 🔍 Techno-Functional<br/>
   💬 I work on business-critical backend systems that power sales, logistics, and billing.
 </p>
 
