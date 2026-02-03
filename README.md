@@ -10,7 +10,7 @@
 
 ## 👨‍💼 About Me
 
-- 🎓 Computer Science graduate
+- 🎓 IT graduate
 - 💼 Currently working as an **SAP SD Consultant** in an enterprise environment
 - 🔄 Hands-on with **Order-to-Cash (O2C)** processes
 - 🧠 Experience in **production support, issue analysis, and business workflows**
@@ -49,16 +49,6 @@ This GitHub is mainly used for:
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 > ⚠️ Note: My primary focus is **SAP ERP & enterprise systems**, not application development.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanish03&show_icons=true&theme=radical" />
-</div>
-
----
 
 ## 🔗 Connect with Me
 
